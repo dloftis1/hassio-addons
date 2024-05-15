@@ -1,4 +1,4 @@
-# mdegat01's Home Assistant Add-ons
+# dloftis1's Home Assistant Add-ons
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]

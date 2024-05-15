@@ -2,6 +2,8 @@
 
 ## Before You Begin
 
+Modified by dloftis1 (repository)
+
 This add-on wants to collect consumption information being broadcast by the meter
 on your house using an [RTL-SDR dongle][rtl-sdr-dongle] and pass it to MQTT. Which
 means you'll need a dongle before you begin. I used a [NooElec NESDR Nano 2+][nesdr-nano-2plus]
