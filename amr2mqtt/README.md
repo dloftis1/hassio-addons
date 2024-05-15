@@ -11,6 +11,8 @@ _Runs rtlamr to read meter data and send to MQTT broker._
 
 ## About
 
+Modified by dloftis1 (repository)
+
 Allows you to use an rtl-sdr dongle to listen for signals from ERT compatible
 smart meters using [rtlamr][rtlamr]. This runs as a daemon by launching rtl-tcp
 and rtlamr, parsing the output and pushing it into MQTT so Home Assistant can
